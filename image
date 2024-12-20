@@ -1,0 +1,5 @@
+mkdir images
+git add images/stackand.avif
+git add images/wewe-2.jpg
+git commit -m "Ajout du dossier images et des images"
+git push origin main
